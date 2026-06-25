@@ -33,13 +33,10 @@ Some example shortcuts I plan to use are:
 - Open Google Maps
 - Open flight booking websites
 - Open hotel booking websites
-Since the firmware is programmable, these shortcuts can be changed anytime.
 
 ## Tools Used
 
 - KiCad 10
-- Autodesk Fusion 360
-- KMK/QMK Firmware
 
 ---
 
@@ -50,8 +47,6 @@ While building this project I learned how to:
 - Design a PCB from scratch
 - Route traces and prepare Gerber files
 - Add an OLED display to a custom PCB
-- Design a 3D printable enclosure in Fusion 360
-- Create a project around a specific theme instead of only focusing on hardware
 
 ---
 
